@@ -48,7 +48,7 @@ button{
 }
 
 .all-clear,.zero-btn, .percentage{
-    width: 50%;
+    width: 40%;
     border-radius: 10px;
     background-color: #b0aca4;
 }
@@ -68,16 +68,17 @@ button:hover{
     border-radius: 10px;
 }
 
+
 footer {
-    width: 100%;
+    width: 20%;
     font-size: 20px;
     font-weight: 100;
     position: fixed;
-    top: 0;
+    bottom: 0;
     text-align: left;
 }
   
-.bottom {
+.made {
     margin-bottom: 20px;
     color: #020202;
     text-shadow: 2px 2px 2px #fffb00;
